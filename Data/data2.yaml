@@ -1,0 +1,6 @@
+info: &data
+  name: lili
+  phone: 111222333
+address:
+  <<: *data
+  detail: "哈哈哈哈"
